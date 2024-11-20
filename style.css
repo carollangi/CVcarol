@@ -1,0 +1,73 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  header nav ul li {
+    margin: 0 10px;
+  }
+  
+  header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Section Styles */
+  section {
+    padding: 40px;
+  }
+  
+  section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Experience Styles */
+  .experience-item {
+    margin-bottom: 30px;
+  }
+  
+  /* Projects Styles */
+  .project-item {
+    margin-bottom: 30px;
+  }
+  
+  /* Contact Styles */
+  #contact ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #contact ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
